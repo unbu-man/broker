@@ -15,6 +15,14 @@ Build a security-first, AI-assisted trading technology platform designed for **i
 5. A jurisdiction-aware compliance, onboarding, and execution architecture.
 6. An eventual legally approved brokerage or licensed-partner model.
 
+## Approved customer and product direction (19 November 2026)
+
+BrokerAI is designed for curious non-traders, beginners, self-directed/advanced traders, partner-referred clients and B2B broker technology customers, supported through a **single shared product core** and staged experiences. We will validate user problems and demand rather than assume all segments are ready to buy.
+
+The first MVP targets **education, accessible mobile/desktop UX, reliable simulated trading, transparent risk and testing**, while preserving a future Trading Club for **educational, simulated skill assessment**. Live customer funds, automated real-money trades, funded accounts and brokerage integrations are excluded until legal, financial and operational authorization is documented.
+
+See [approved Day 1 founder decisions](docs/day_01_founder_review_and_decisions.md).
+
 ## Initial market scope (founder decision: 18 November 2026)
 
 - **Crypto:** spot-market paper trading first (BTC/USDT and ETH/USDT); crypto futures, perpetuals, margin, custody and real-money exchange integration are out of MVP scope.
@@ -54,6 +62,7 @@ The **12-month engineering target** is a reliable paper-trading product, validat
 - [09 — Founder five-hour daily schedule and first 90 days](docs/09_founder_5_hour_daily_plan.md)
 - [10 — Daily task tracking and Google Sheets workflow](docs/10_daily_task_tracking.md)
 - [Day 01 — First customer persona and discovery](docs/day_01_customer_persona.md)
+- [Day 01 — Approved founder vision, product features and trading-club decisions](docs/day_01_founder_review_and_decisions.md)
 
 ## Engineering rules
 
