@@ -4,17 +4,17 @@
 
 | Month | Workstream | Deliverable / acceptance evidence |
 |---|---|---|
-| 1 | Founder strategy | Confirmed focus: crypto + forex, no stocks in MVP; user personas, country/product rules, capital assumptions |
+| 1 | Founder strategy | Crypto + forex confirmed; multi-segment customer discovery; approved responsive demo/education scope, country/product rules, and budget assumptions |
 | 2 | Market data | BTC/USDT, ETH/USDT, EUR/USD and USD/JPY market data; FX session calendar, crypto 24/7 handling, timestamp and price precision tests |
 | 3 | Simulation mechanics | Shared paper-order core; crypto spot fills vs simulated FX order assumptions; spread, fee, slippage and replay tests |
 | 4 | Accounting & portfolio | Virtual ledger, trades, positions and reconciliation invariant tests |
-| 5 | API and UX | Authenticated customer dashboard, charts, paper-order journey |
-| 6 | Research & signals | Separate crypto and FX backtests with market-specific calendars, transaction costs and walk-forward evaluation |
-| 7 | Auto paper trading | Crypto/FX demo bots, product-specific risk rules and kill switch; no margin/leveraged live integration |
-| 8 | AI education | English/Khmer source-grounded assistant, uncertainty and escalation tests |
+| 5 | API and UX | Responsive original mobile/desktop demo UI, accessible order ticket, visible spread/fees, portfolio and usability tests |
+| 6 | Research & signals | Crypto/FX backtests with costs, strict out-of-sample evaluation, precise model metrics, drawdown and uncertainty reporting |
+| 7 | Auto paper trading | Opt-in crypto/FX demo bots with product-specific risk caps and kill switch; no automatic real-money trading for beginners |
+| 8 | AI education | English/Khmer source-grounded, risk-first assistant for non-traders and beginners, with transparent uncertainty and escalation |
 | 9 | Security and admin | RBAC, MFA plan, monitoring, audit, threat modeling, incident response |
 | 10 | Reliability | CI/CD, staging, backup/restore, replay, performance, security review |
-| 11 | Closed demo beta | Usability feedback, errors and support metrics; no real-money customers |
+| 11 | Closed demo beta | User tests across learners and advanced traders; optional paper-only Trading Club and consent-based partner sandbox research; no real-money customers |
 | 12 | Go/no-go review | Licensing/counsel findings, partners, capital plan, production criteria and next-year roadmap |
 
 ## Weekly operating cadence
