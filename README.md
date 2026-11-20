@@ -63,6 +63,7 @@ The **12-month engineering target** is a reliable paper-trading product, validat
 - [10 — Daily task tracking and Google Sheets workflow](docs/10_daily_task_tracking.md)
 - [Day 01 — First customer persona and discovery](docs/day_01_customer_persona.md)
 - [Day 01 — Approved founder vision, product features and trading-club decisions](docs/day_01_founder_review_and_decisions.md)
+- [Day 02 — Competitor research and first five user stories](docs/day_02_competitor_research.md)
 
 ## Engineering rules
 
